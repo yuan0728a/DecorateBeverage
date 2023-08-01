@@ -1,0 +1,5 @@
+#VisualStudio
+.vs/
+**/bin/
+**/[Bb]in/
+**/[Oo]bj/
